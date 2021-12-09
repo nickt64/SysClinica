@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\PROEM-NicolasTomeoClases\bin\Debug\PROEM-NicolasTomeoClases.dll
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\PROEM-NicolasTomeoClases\bin\Debug\PROEM-NicolasTomeoClases.pdb
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\PROEM-NicolasTomeoClases\obj\Debug\PROEM-NicolasTomeoClases.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\PROEM-NicolasTomeoClases\obj\Debug\PROEM-NicolasTomeoClases.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\PROEM-NicolasTomeoClases\obj\Debug\PROEM-NicolasTomeoClases.dll
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\PROEM-NicolasTomeoClases\obj\Debug\PROEM-NicolasTomeoClases.pdb

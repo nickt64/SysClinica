@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\Proem-NicolasTomeoValidaciones\obj\Debug\Proem-NicolasTomeoValidaciones.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\Proem-NicolasTomeoValidaciones\obj\Debug\Proem-NicolasTomeoValidaciones.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\Proem-NicolasTomeoValidaciones\bin\Debug\Proem-NicolasTomeoValidaciones.dll
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\Proem-NicolasTomeoValidaciones\bin\Debug\Proem-NicolasTomeoValidaciones.pdb
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\Proem-NicolasTomeoValidaciones\bin\Debug\PROEM-NicolasTomeoClases.dll
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\Proem-NicolasTomeoValidaciones\bin\Debug\PROEM-NicolasTomeoClases.pdb
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\Proem-NicolasTomeoValidaciones\obj\Debug\Proem-NicolasTomeoValidaciones.csproj.CopyComplete
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\Proem-NicolasTomeoValidaciones\obj\Debug\Proem-NicolasTomeoValidaciones.dll
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\Proem-NicolasTomeoValidaciones\obj\Debug\Proem-NicolasTomeoValidaciones.pdb

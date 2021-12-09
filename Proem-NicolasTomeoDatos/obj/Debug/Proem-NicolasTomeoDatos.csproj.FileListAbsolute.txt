@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\Proem-NicolasTomeoDatos\bin\Debug\Proem-NicolasTomeoDatos.dll
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\Proem-NicolasTomeoDatos\bin\Debug\Proem-NicolasTomeoDatos.pdb
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\Proem-NicolasTomeoDatos\bin\Debug\PROEM-NicolasTomeoClases.dll
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\Proem-NicolasTomeoDatos\bin\Debug\PROEM-NicolasTomeoClases.pdb
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\Proem-NicolasTomeoDatos\obj\Debug\Proem-NicolasTomeoDatos.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\Proem-NicolasTomeoDatos\obj\Debug\Proem-NicolasTomeoDatos.csproj.CopyComplete
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\Proem-NicolasTomeoDatos\obj\Debug\Proem-NicolasTomeoDatos.dll
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\Proem-NicolasTomeoDatos\obj\Debug\Proem-NicolasTomeoDatos.pdb
+C:\Users\admin\source\repos\Proem-NicolasTomeoSol\Proem-NicolasTomeoDatos\obj\Debug\Proem-NicolasTomeoDatos.csproj.AssemblyReference.cache
